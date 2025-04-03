@@ -1,6 +1,9 @@
 # Product Showcase App
 
-A mobile app that allows users to view a product with the option to select different colors and interactive animations to enhance the user experience.
+<h2>Description</h2>
+<p>
+  A mobile app that allows users to view a product with the option to select different colors and interactive animations to enhance the user experience.
+</p>
 
 ## Features
 
