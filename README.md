@@ -38,3 +38,12 @@ Product Screen and product details screen
   <img src="https://github.com/user-attachments/assets/86a921ac-6fc7-4e3d-a46b-08e855cec070" alt="Registro 1" width="200" hspace="30"/>
   <img src="https://github.com/user-attachments/assets/69a0cde2-36d2-45be-a55e-e0e55372e71b" alt="Registro 2" width="200" hspace="30"/>
 </div>
+
+
+
+
+## Special Thanks
+
+This app was developed as part of a course by **Fernando Herrera**. I would like to express my gratitude to Fernando for providing such insightful and educational content.
+
+You can check out Fernando's work and courses on his [GitHub](https://github.com/klerith).
